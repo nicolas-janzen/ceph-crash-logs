@@ -1,0 +1,80 @@
+ID   CLASS  WEIGHT     REWEIGHT  SIZE     RAW USE  DATA     OMAP     META     AVAIL     %USE   VAR   PGS  STATUS  TYPE NAME         
+ -1         251.55884         -  252 TiB  204 TiB  202 TiB  4.6 MiB  590 GiB    48 TiB  80.96  1.00    -          root default      
+-49           6.98630         -  7.0 TiB  5.9 TiB  5.8 TiB  283 KiB   16 GiB   1.1 TiB  83.84  1.04    -              host compute01
+ 43    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.8 TiB  283 KiB   16 GiB   1.1 TiB  83.84  1.04  366      up          osd.43    
+-45           6.98630         -  7.0 TiB  5.8 TiB  5.7 TiB   95 KiB   17 GiB   1.2 TiB  82.47  1.02    -              host compute02
+ 23    ssd    6.98630   1.00000  7.0 TiB  5.8 TiB  5.7 TiB   95 KiB   17 GiB   1.2 TiB  82.47  1.02  360      up          osd.23    
+-47           6.98630         -  7.0 TiB  6.0 TiB  5.9 TiB   93 KiB   16 GiB   1.0 TiB  85.45  1.06    -              host compute03
+ 41    ssd    6.98630   1.00000  7.0 TiB  6.0 TiB  5.9 TiB   93 KiB   16 GiB   1.0 TiB  85.45  1.06  372      up          osd.41    
+-43           6.98618         -  7.0 TiB  5.8 TiB  5.7 TiB  331 KiB   17 GiB   1.2 TiB  82.78  1.02    -              host csnj1    
+ 39    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB  220 KiB  8.3 GiB   622 GiB  82.61  1.02  180      up          osd.39    
+ 40    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB  111 KiB  8.8 GiB   610 GiB  82.95  1.02  185      up          osd.40    
+-41           3.49319         -  3.5 TiB  2.9 TiB  2.9 TiB  226 KiB  9.8 GiB   569 GiB  84.08  1.04    -              host ph-01    
+ 37    ssd    1.74660   1.00000  1.7 TiB  1.4 TiB  1.4 TiB   32 KiB  4.8 GiB   327 GiB  81.72  1.01   89      up          osd.37    
+ 38    ssd    1.74660   1.00000  1.7 TiB  1.5 TiB  1.5 TiB  194 KiB  5.0 GiB   242 GiB  86.44  1.07   93      up          osd.38    
+-39           3.49319         -  3.5 TiB  3.2 TiB  3.1 TiB   77 KiB  9.6 GiB   350 GiB  90.21  1.11    -              host ph-02    
+ 35    ssd    1.74660   1.00000  1.7 TiB  1.6 TiB  1.5 TiB   32 KiB  4.1 GiB   197 GiB  88.99  1.10   94      up          osd.35    
+ 36    ssd    1.74660   1.00000  1.7 TiB  1.6 TiB  1.6 TiB   45 KiB  5.5 GiB   153 GiB  91.44  1.13   97      up          osd.36    
+-37           1.74660         -  1.7 TiB  1.5 TiB  1.5 TiB   44 KiB  5.1 GiB   227 GiB  87.31  1.08    -              host ph-03    
+ 34    ssd    1.74660   1.00000  1.7 TiB  1.5 TiB  1.5 TiB   44 KiB  5.1 GiB   227 GiB  87.31  1.08   94      up          osd.34    
+-35          22.75888         -   23 TiB   13 TiB   13 TiB  196 KiB   29 GiB    10 TiB  55.84  0.69    -              host ph-05    
+ 32    ssd    1.79999   1.00000  1.7 TiB  1.6 TiB  1.6 TiB   51 KiB  4.8 GiB   138 GiB  92.28  1.14  101      up          osd.32    
+ 33    ssd    6.98630   1.00000  7.0 TiB  6.2 TiB  6.2 TiB   54 KiB   16 GiB   773 GiB  89.19  1.10  387      up          osd.33    
+ 47    ssd   13.97260   1.00000   14 TiB  4.8 TiB  4.8 TiB   91 KiB  8.8 GiB   9.1 TiB  34.62  0.43    0    down          osd.47    
+-33          10.47939         -   10 TiB  8.8 TiB  8.8 TiB  301 KiB   25 GiB   1.7 TiB  84.16  1.04    -              host ph-06    
+ 30    ssd    6.98630   1.00000  7.0 TiB  5.8 TiB  5.8 TiB  245 KiB   16 GiB   1.2 TiB  83.27  1.03  365      up          osd.30    
+ 31    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  3.0 TiB   56 KiB  8.7 GiB   503 GiB  85.95  1.06  190      up          osd.31    
+-29          10.47939         -   10 TiB  9.0 TiB  9.0 TiB  121 KiB   26 GiB   1.5 TiB  86.06  1.06    -              host ph-07    
+ 26    ssd    6.98630   1.00000  7.0 TiB  6.1 TiB  6.1 TiB   67 KiB   16 GiB   941 GiB  86.85  1.07  377      up          osd.26    
+ 27    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  2.9 TiB   54 KiB  9.4 GiB   554 GiB  84.50  1.04  183      up          osd.27    
+-31          17.46568         -   17 TiB   15 TiB   15 TiB  265 KiB   38 GiB   2.8 TiB  84.24  1.04    -              host ph-08    
+ 20    ssd    6.98630   1.00000  7.0 TiB  5.8 TiB  5.8 TiB   60 KiB   14 GiB   1.2 TiB  83.11  1.03  363      up          osd.20    
+ 28    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.9 TiB  119 KiB   17 GiB   1.0 TiB  85.10  1.05  373      up          osd.28    
+ 29    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  2.9 TiB   86 KiB  8.0 GiB   544 GiB  84.79  1.05  186      up          osd.29    
+-27          10.47939         -   10 TiB  8.8 TiB  8.8 TiB  192 KiB   25 GiB   1.7 TiB  83.74  1.03    -              host ph-09    
+ 24    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.9 TiB  122 KiB   15 GiB   1.1 TiB  84.05  1.04  365      up          osd.24    
+ 25    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   70 KiB  9.7 GiB   604 GiB  83.12  1.03  180      up          osd.25    
+-55           6.98618         -  7.0 TiB  5.9 TiB  5.8 TiB  119 KiB   16 GiB   1.1 TiB  84.00  1.04    -              host ph-10    
+ 11    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   60 KiB  8.3 GiB   569 GiB  84.11  1.04  182      up          osd.11    
+ 18    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   59 KiB  8.0 GiB   576 GiB  83.90  1.04  182      up          osd.18    
+-53          13.97260         -   14 TiB   12 TiB   12 TiB  234 KiB   32 GiB   2.1 TiB  84.92  1.05    -              host ph-11    
+ 50    ssd    6.98630   1.00000  7.0 TiB  6.0 TiB  6.0 TiB  125 KiB   16 GiB   1.0 TiB  85.64  1.06  373      up          osd.50    
+ 51    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.9 TiB  109 KiB   16 GiB   1.1 TiB  84.20  1.04  368      up          osd.51    
+-25           6.98618         -  7.0 TiB  5.8 TiB  5.7 TiB  100 KiB   19 GiB   1.2 TiB  83.15  1.03    -              host ph04     
+ 22    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   51 KiB  9.6 GiB   572 GiB  84.01  1.04   93      up          osd.22    
+ 42    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.8 TiB   49 KiB  9.1 GiB   634 GiB  82.28  1.02   83      up          osd.42    
+-11                 0         -      0 B      0 B      0 B      0 B      0 B       0 B      0     0    -              host ph24-10  
+-17          10.47939         -   10 TiB  8.8 TiB  8.7 TiB  126 KiB   23 GiB   1.7 TiB  83.72  1.03    -              host ph24-12  
+  1    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.8 TiB   49 KiB  8.5 GiB   644 GiB  82.00  1.01  177      up          osd.1     
+ 45    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.9 TiB   77 KiB   14 GiB   1.1 TiB  84.58  1.04  367      up          osd.45    
+-13          10.47939         -   10 TiB  8.7 TiB  8.6 TiB  157 KiB   27 GiB   1.8 TiB  82.56  1.02    -              host ph24-13  
+ 12    ssd    6.98630   1.00000  7.0 TiB  5.7 TiB  5.7 TiB  114 KiB   18 GiB   1.3 TiB  82.01  1.01  359      up          osd.12    
+ 14    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   43 KiB  8.6 GiB   584 GiB  83.67  1.03  182      up          osd.14    
+ -7          10.47939         -   10 TiB  8.8 TiB  8.7 TiB  308 KiB   26 GiB   1.7 TiB  83.97  1.04    -              host ph24-14  
+  7    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.9 TiB  241 KiB   18 GiB   1.1 TiB  84.41  1.04  367      up          osd.7     
+ 15    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   67 KiB  8.6 GiB   605 GiB  83.08  1.03  183      up          osd.15    
+-15           6.98618         -  7.0 TiB  5.9 TiB  5.9 TiB  285 KiB   19 GiB   1.1 TiB  84.89  1.05    -              host ph24-7   
+ 10    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  3.0 TiB  222 KiB   10 GiB   526 GiB  85.30  1.05  183      up          osd.10    
+ 17    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  2.9 TiB   63 KiB  9.3 GiB   555 GiB  84.48  1.04  183      up          osd.17    
+-19           6.98618         -  7.0 TiB  5.8 TiB  5.8 TiB   96 KiB   18 GiB   1.2 TiB  82.74  1.02    -              host ph24-8   
+ 13    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   58 KiB  8.5 GiB   593 GiB  83.42  1.03  182      up          osd.13    
+ 19    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   38 KiB  9.5 GiB   642 GiB  82.05  1.01  177      up          osd.19    
+ -9           6.98618         -  7.0 TiB  6.0 TiB  5.9 TiB  168 KiB   19 GiB  1004 GiB  85.96  1.06    -              host ph24-9   
+  0    ssd    3.49309   1.00000  3.5 TiB  3.1 TiB  3.1 TiB  102 KiB   10 GiB   405 GiB  88.67  1.10  195      up          osd.0     
+  8    ssd    3.49309   1.00000  3.5 TiB  2.9 TiB  2.9 TiB   66 KiB  9.2 GiB   599 GiB  83.26  1.03  181      up          osd.8     
+ -3          10.47939         -   10 TiB  8.8 TiB  8.7 TiB  160 KiB   27 GiB   1.7 TiB  83.91  1.04    -              host pve1     
+  2    ssd    6.98630   1.00000  7.0 TiB  5.8 TiB  5.8 TiB  106 KiB   16 GiB   1.2 TiB  83.02  1.03  364      up          osd.2     
+  9    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  3.0 TiB   54 KiB   11 GiB   512 GiB  85.70  1.06  185      up          osd.9     
+ -5          10.47939         -   10 TiB  8.9 TiB  8.8 TiB  185 KiB   26 GiB   1.6 TiB  84.46  1.04    -              host pve2     
+  4    ssd    6.98630   1.00000  7.0 TiB  5.9 TiB  5.8 TiB  112 KiB   16 GiB   1.1 TiB  83.91  1.04  365      up          osd.4     
+ 16    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  3.0 TiB   73 KiB   10 GiB   516 GiB  85.57  1.06  187      up          osd.16    
+-21          31.43828         -   31 TiB   25 TiB   25 TiB  380 KiB   77 GiB   6.5 TiB  79.18  0.98    -              host pve3     
+  3    ssd    6.98630   1.00000  7.0 TiB  5.5 TiB  5.5 TiB   90 KiB   15 GiB   1.5 TiB  78.74  0.97  340      up          osd.3     
+  6    ssd    3.49309   1.00000  3.5 TiB  2.4 TiB  2.4 TiB   48 KiB  6.9 GiB   1.1 TiB  69.62  0.86  149      up          osd.6     
+ 44    ssd    6.98630   1.00000  7.0 TiB  5.8 TiB  5.8 TiB   73 KiB   12 GiB   1.2 TiB  83.39  1.03  363      up          osd.44    
+ 46    ssd   13.97260   1.00000   14 TiB   11 TiB   11 TiB  169 KiB   43 GiB   2.8 TiB  79.68  0.98   52      up          osd.46    
+-23          10.47939         -   10 TiB  8.6 TiB  8.6 TiB  167 KiB   26 GiB   1.9 TiB  82.15  1.01    -              host pve4     
+  5    ssd    6.98630   1.00000  7.0 TiB  5.6 TiB  5.6 TiB  104 KiB   16 GiB   1.4 TiB  80.63  1.00  353      up          osd.5     
+ 21    ssd    3.49309   1.00000  3.5 TiB  3.0 TiB  2.9 TiB   63 KiB  9.5 GiB   530 GiB  85.18  1.05  187      up          osd.21    
+                          TOTAL  252 TiB  204 TiB  202 TiB  4.6 MiB  590 GiB    48 TiB  80.96                                       
+MIN/MAX VAR: 0.43/1.14  STDDEV: 7.97
